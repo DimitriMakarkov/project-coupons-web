@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.header .signIn{
+    min-width: 250px;
+    width:15%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header .logo{
+    margin: auto;
+    width:85%;
+    padding-left: 15%;
+    background-color: transparent;
+    
+}
+
+.header .signIn .login{
+ width:110px;
+}
+
+
+
+
+
